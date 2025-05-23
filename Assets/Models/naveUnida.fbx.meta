@@ -1,0 +1,327 @@
+fileFormatVersion: 2
+guid: 32fb136ca6dfa8c49894b9507b9c3409
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CREAM-HARD_MAT.002
+    second: {fileID: 2100000, guid: af1eb6029f1cd074e923975e0601c0ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CREAM-SOFT_EXTRA.002
+    second: {fileID: 2100000, guid: f7673afba29736c488e2f937eb08a003, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CREAM-SOFT_MAT.002
+    second: {fileID: 2100000, guid: 2701c588e0170b643b5c03fd2b27b13d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CREAM-SOFT_MAT1.002
+    second: {fileID: 2100000, guid: 9da7b028c6494bd4a9d7ded5119fca69, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DOOR-PAD
+    second: {fileID: 2100000, guid: 3a92f5c0fc5ed414e9954959737752e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FOOT-STAND
+    second: {fileID: 2100000, guid: d4a1259c185b7294b93a2fbf161c9419, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fbx_Default_Material.002
+    second: {fileID: 2100000, guid: 01c07b4ef6e1ae24fb71e6b9dc1e3aa9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GLASS
+    second: {fileID: 2100000, guid: 27153ab030d36584c80d861b919e443b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MEDIXBOX.002
+    second: {fileID: 2100000, guid: 0dfc7042356f65648b3e74b0c3119f80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: METAL-PAINT_MAT.002
+    second: {fileID: 2100000, guid: 611b8fb7e7b534040b785571f5e607ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: METAL-PAINT_MAT1.002
+    second: {fileID: 2100000, guid: dc0093c67bcdd8a4ab2b1049bd6f3684, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: METAL-PERFORATED_MAT.002
+    second: {fileID: 2100000, guid: a9a3bcc143ea3ec4fbb8e39182a229a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: METALS.002
+    second: {fileID: 2100000, guid: 9d2cf29cbde764e44a2c03b78458995b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: bb5bd78c3320d6843b7df51fb020388c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_002
+    second: {fileID: 2100000, guid: 8657dab3af5936f48b1ea7e82beb5527, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PAINT_PIPES_MAT.002
+    second: {fileID: 2100000, guid: 2a41e26897999fc469aa7bec3ebdfa82, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bed-pipes
+    second: {fileID: 2100000, guid: 6a875ce629076bc418d5ab5338911a11, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bed-plate
+    second: {fileID: 2100000, guid: 76615402064638e42b8b1d4b570a8a20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bedsheet-pillows
+    second: {fileID: 2100000, guid: 3723c2ea1def1004786b9543ac84155d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: decal-text.002
+    second: {fileID: 2100000, guid: f666fbad0abf7cc41a755b8e95076137, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: floor-trim.002
+    second: {fileID: 2100000, guid: e6a8bc16103b6d343b642a3b5235d9c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: floor.002
+    second: {fileID: 2100000, guid: 3cf26db52d894804abdaa5375bfcdc89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: floorlight1.002
+    second: {fileID: 2100000, guid: a150b07cea630f54c86536cd435bc00e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass-3.002
+    second: {fileID: 2100000, guid: a453f9e42b41083409b0edf6370d202c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass.004
+    second: {fileID: 2100000, guid: f663b5b282a70a5439cd4b1a75c07675, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass_Inst.002
+    second: {fileID: 2100000, guid: e2eeff21845a4db409fea42e3d2f4854, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: green-flooring-extra.002
+    second: {fileID: 2100000, guid: b308c5a986f9a7d4f9cb7377193c703e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hard-plastic.002
+    second: {fileID: 2100000, guid: d07a3b03c2b9f2941b2175c69178e852, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hard-plastic_Inst.002
+    second: {fileID: 2100000, guid: 3b60b9cfed7b36e40970ae9aecbdf31a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: l-shape-floor-texture.002
+    second: {fileID: 2100000, guid: 7379ba7aefb9f374aa4fec3041791f52, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: light.002
+    second: {fileID: 2100000, guid: 8e36d0fafd43839489b8ab5872b97790, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lower-metal
+    second: {fileID: 2100000, guid: b9aea3a7cc1257644bc54dc0e1c7d70e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal-2.002
+    second: {fileID: 2100000, guid: 835d034444d469d4d9ea7bdc715f4887, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal-bars
+    second: {fileID: 2100000, guid: 1dbc70dc25158f74e83073f823078750, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal-erode_MAT.002
+    second: {fileID: 2100000, guid: 19ff98a1e0241644897b8284858a2b9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: paint2_MAT.002
+    second: {fileID: 2100000, guid: 1b31134ca340bb5499d189b0935b7b49, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plastic-variation.002
+    second: {fileID: 2100000, guid: 62c801bd9ee6d3c4db19283468c436fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: red-light
+    second: {fileID: 2100000, guid: 8e35f3df375bb2f4287a2774b6fe106f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rooflight.002
+    second: {fileID: 2100000, guid: 3ccca8190cecd0643859ecd900ec3904, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: salinedrip
+    second: {fileID: 2100000, guid: ae3999704d79023438bf5d7e67bdcf99, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: short-light.002
+    second: {fileID: 2100000, guid: caf0c20b648a34643919ede4a3e48de0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: soft-plastic.002
+    second: {fileID: 2100000, guid: ead9a2d391192484c9304ab3d22c392a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: uder-bed-supports
+    second: {fileID: 2100000, guid: d26e346831a17254ebb6da5e0633d37f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: whele-belt-break-bar
+    second: {fileID: 2100000, guid: d5f7d8b143c77b945969545365d8bf1d, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
