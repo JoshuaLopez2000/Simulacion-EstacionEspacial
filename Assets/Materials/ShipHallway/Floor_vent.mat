@@ -140,7 +140,7 @@ Material:
     - _DstBlendAlpha: 0
     - _EnvironmentReflections: 1
     - _GlossMapScale: 1
-    - _Glossiness: 0.787
+    - _Glossiness: 0.772
     - _GlossyReflections: 1
     - _METALNESS: 0.3006993
     - _Metallic: 1
